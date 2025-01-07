@@ -8,6 +8,11 @@
    
 ![Raspi Downloader](https://github.com/user-attachments/assets/b301300a-133f-46c2-aa92-4f722103106b)
 
+3. Erase Confirmation
+
+![3  Erase Confirmation](https://github.com/user-attachments/assets/eab6c8eb-fc26-40b9-a6b2-fcfc810ed98a)
+
+
 12. login page omv:
 
 ![12  login page omv](https://github.com/user-attachments/assets/8aade239-e1ba-494e-ab16-4097e1547a55)

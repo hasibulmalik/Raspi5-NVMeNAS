@@ -47,3 +47,57 @@ Step 9 OVM after install:
 Step 10 OVM install final:
 
 ![10  OVM install final](https://github.com/user-attachments/assets/5e7db4f5-efe4-4571-bf44-6f11b255ce26)
+
+
+Step 11 login page omv:
+
+![11  login page omv](https://github.com/user-attachments/assets/14c41eb3-ab8d-47d8-a60b-921981b5dfd7)
+
+Step 12 OMV Homepage:
+
+![12  OMV Homepage](https://github.com/user-attachments/assets/73fdb284-1a41-4ecc-9336-b420834e1516)
+
+Step 13 zfs plugin search:
+
+![13  zfs plugin search](https://github.com/user-attachments/assets/2353e632-78e2-4381-b670-1ac9cecc5a22)
+
+Step 14 zfs download:
+
+![14  zfs download](https://github.com/user-attachments/assets/6016dbbe-7a6d-4455-9e04-204c157006c0)
+
+Step 15 zfs download done:
+
+![15 zfs download done](https://github.com/user-attachments/assets/6420863f-2986-46f1-97a7-061e03434172)
+
+Step 16 ovm update done:
+
+![16  ovm update done](https://github.com/user-attachments/assets/16a8af00-9715-4a40-8404-580d297bb18a)
+
+Step 17 zfs pool:
+
+![17  zfs pool](https://github.com/user-attachments/assets/d0751a42-2f34-4980-beb4-97c444daaa4b)
+
+Step 18 zfs add pool:
+
+![18  zfs add pool](https://github.com/user-attachments/assets/41224d7e-1ca5-4b8a-9359-01d73a71b9d3)
+
+
+Step 19 create pool:
+
+![19  create pool](https://github.com/user-attachments/assets/24a5a152-f41a-4df5-818f-d530c3a91deb)
+
+Step 20 shared folder create:
+
+![20  shared folder create](https://github.com/user-attachments/assets/eac005fa-2137-4388-a86c-fa1ad06d5798)
+
+Step 21 ssh enabled:
+
+![21  ssh enabled](https://github.com/user-attachments/assets/fc2110c7-1bfc-4965-8661-cf4061edc37d)
+
+
+
+
+
+
+
+

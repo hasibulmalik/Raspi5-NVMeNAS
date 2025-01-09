@@ -1,7 +1,8 @@
 # Raspi5-NVMeNAS
+Build your own Network Attached Storage (NAS) using a Raspberry Pi 5 and NVMe storage. This guide walks you through the setup process, from preparing your SD card to configuring OpenMediaVault (OMV) with ZFS for robust storage solutions.
+
 
 Step 1 SD Card:
-   
 ![1  SD Card](https://github.com/user-attachments/assets/795ed649-2ff8-4405-88e8-da824ba62169)
 
 

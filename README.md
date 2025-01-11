@@ -3,6 +3,21 @@
 Build your own Network Attached Storage (NAS) using a Raspberry Pi 5 and NVMe storage. This guide walks you through the setup process, from preparing your SD card to configuring OpenMediaVault (OMV) with ZFS for robust storage solutions.
 
 
+![demo image 1](https://github.com/user-attachments/assets/8fd377a2-6375-4f0e-b592-596eb3e7a66c)
+![demo image 2](https://github.com/user-attachments/assets/52c00685-dc85-4d49-afce-b058dc8a13c1)
+
+
+---
+
+## Requirements
+- Raspberry Pi 5
+- SD card (16GB or 32GB recommended)
+- NVMe storage device
+- A computer for initial setup
+
+  
+### Phase 1: Setting Up the Raspberry Pi
+
 Step 1 SD Card:
 
 1. Format the SD card using a tool like `Balena Etcher` or `Raspberry Pi Imager`.
@@ -14,10 +29,15 @@ Step 1 SD Card:
 
 Step 2 Raspi Downloader: 
 
+1. Download the Raspberry Pi Imager tool from [Raspberry Pi's website](https://www.raspberrypi.com/software/).
+2. Use the tool to install the Raspberry Pi OS on your SD card.
 
 ![2  Raspi Downloader](https://github.com/user-attachments/assets/82baf798-5410-4ebd-9b96-063fcd50ad6e)
 
 Step 3 Raspi OS:
+
+1. In the Raspberry Pi Imager, select the operating system you prefer (My personal preference: Raspberry Pi OS Lite for headless setups).
+2. Configure network and SSH settings during this step if available.
 
 ![3   Raspi OS](https://github.com/user-attachments/assets/da7a8aed-96b9-4083-adf9-90cdc76649d3)
 

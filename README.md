@@ -27,14 +27,14 @@ Step 1 SD Card:
 ![1  SD Card](https://github.com/user-attachments/assets/795ed649-2ff8-4405-88e8-da824ba62169)
 
 
-Step 2 Raspi Downloader: 
+Step 2: Raspi Downloader: 
 
 1. Download the Raspberry Pi Imager tool from [Raspberry Pi's website](https://www.raspberrypi.com/software/).
 2. Use the tool to install the Raspberry Pi OS on your SD card.
 
 ![2  Raspi Downloader](https://github.com/user-attachments/assets/82baf798-5410-4ebd-9b96-063fcd50ad6e)
 
-Step 3 Raspi OS:
+Step 3: Raspi OS:
 
 1. In the Raspberry Pi Imager, select the operating system you prefer (My personal preference: Raspberry Pi OS Lite for headless setups).
 2. Configure network and SSH settings during this step if available.
@@ -42,22 +42,31 @@ Step 3 Raspi OS:
 ![3   Raspi OS](https://github.com/user-attachments/assets/da7a8aed-96b9-4083-adf9-90cdc76649d3)
 
 
-Step 4 OS Customization:
+Step 4: OS Customization:
 
+1. Enter advanced options to configure SSH, Wi-Fi credentials, and hostname.
+2. Save these settings to the SD card.
+   
 ![4  OS Customization](https://github.com/user-attachments/assets/cd5fe361-70c0-492c-9347-48b8252b0d32)
 
-Step 5 OS Customization Config:
+Step 5: OS Customization Config:
+
+1. set up HOSTname, HOSTusername, HOSTpassword. In my case I names raspi-nas as HOST name. HOSTusername as home and HOSTpassword I won't tell you ;)
 
 ![5  OS Customization Config](https://github.com/user-attachments/assets/f0b841d8-5d4a-43d8-946c-74669134184a)
 
 
 Step 6 Erase Confirmation:
 
+1. Confirm the erasure of existing data on the SD card.
+
 ![6  Erase Confirmation](https://github.com/user-attachments/assets/f4769c0f-1d9d-40d5-91bb-e79b348281c5)
 
 
 Step 7 Preparing Erasing:
 
+1. Wait for the flashing process to complete.
+   
 ![7  Preparing Erasing](https://github.com/user-attachments/assets/2055b748-a680-404a-9a47-8fc19aa27022)
 
 Step 8 Successful boot:

@@ -99,10 +99,14 @@ Step 12: OMV Homepage-
 
 Step 13: ZFS plugin search-
 
+1. Search for the ZFS plugin in the OMV interface.
+
 ![13  zfs plugin search](https://github.com/user-attachments/assets/2353e632-78e2-4381-b670-1ac9cecc5a22)
 
 Step 14: ZFS download-
 
+1. Download and install the plugin.
+   
 ![14  zfs download](https://github.com/user-attachments/assets/6016dbbe-7a6d-4455-9e04-204c157006c0)
 
 Step 15: ZFS download done-
